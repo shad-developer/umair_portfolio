@@ -34,7 +34,7 @@ const ContactItem = ({ Icon, label, value, href }) => (
         href={href}
         target="_blank"
         rel="noopener noreferrer"
-        className="text-lg text-darkDesert font-medium hover:text-goldDesert hover:underline underline-offset-2 transition-colors duration-300"
+        className="text-md text-darkDesert font-medium hover:text-goldDesert hover:underline underline-offset-2 transition-colors duration-300"
       >
         {value}
       </a>
