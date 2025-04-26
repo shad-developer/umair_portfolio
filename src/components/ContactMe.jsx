@@ -29,7 +29,7 @@ const ContactItem = ({ Icon, label, value, href }) => (
       <Icon className="text-goldDesert text-2xl" />
     </div>
     <div>
-      <p className="text-sm text-gray-500">{label}</p>
+      <p className="text-sm text-gray-500 text-left">{label}</p>
       <a
         href={href}
         target="_blank"
@@ -64,7 +64,7 @@ export default function ContactMe() {
           opportunities. Feel free to reach out through any of the channels
           below!
         </p>
-        <div className="flex flex-col items-center md:items-start">
+        <div className="flex flex-col">
           {/* Email */}
           {contactDetails.email && (
             <ContactItem
