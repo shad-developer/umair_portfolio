@@ -36,7 +36,7 @@ export default function Home() {
 
       <div className="flex justify-between items-center flex-col">
       <h1 className="text-6xl font-bold text-darkDesert">Muhammad Umair Shad</h1>
-<p className="text-3xl text-darkDesert">MERN Stack Developer</p>
+<p className="text-3xl text-darkDesert text-center">MERN Stack Developer</p>
       </div>
 
       <animated.div style={iconSpring} className="flex flex-col mt-2 space-x-6">
