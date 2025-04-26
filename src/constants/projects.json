@@ -12,7 +12,7 @@
     "id": "2",
     "title": "Phantom Frontend Website (Lead Generation)",
     "description": "Phantom (Lead Generation) is a tool built to automate the collection of leads using PhantomBuster APIs, presented through a clean and user-friendly interface built with the MERN Stack. It allows users to trigger data scraping tasks (phantoms), monitor progress, and view collected leads in a structured format. This project simplifies the lead generation process by integrating backend automation with a responsive frontend dashboard.",
-    "thumbnail": "projects/phantom.png",
+    "thumbnail": "projects/phantom.PNG",
     "deployed": "https://phantombuster-brown.vercel.app/",
     "github": "https://github.com/shad-developer/phantombuster",
     "date": "October 2024"
@@ -21,7 +21,7 @@
     "id": "3",
     "title": "Fruit Frontend Website",
     "description": "Fruit FrontEnd Website is a visually appealing and responsive React-based web application designed to showcase a modern fruit store layout. Built entirely with React, the frontend uses Framer Motion to deliver smooth animations and interactive transitions, enhancing the user experience. The project emphasizes clean UI, reusable components, and mobile-first design principles.",
-    "thumbnail": "projects/fruit.png",
+    "thumbnail": "projects/fruit.PNG",
     "deployed": "https://fruits-store-rho.vercel.app/",
     "github": "https://github.com/shad-developer/Fruits-Store",
     "date": "October 2024"
@@ -30,7 +30,7 @@
     "id": "4",
     "title": "Chat Application",
     "description": "A real-time chat application built using the MERN Stack with Socket.IO for instant messaging. It features user authentication, private chats, online status tracking, and real-time message updates. The frontend is built with React and styled in tailwindCss for responsiveness, offering a smooth and modern chat experience.",
-    "thumbnail": "projects/chat.png",
+    "thumbnail": "projects/chat.PNG",
     "deployed": "https://chats-application-mern.vercel.app/login",
     "github": "https://github.com/shad-developer/chat_application",
     "date": "October 2024"
