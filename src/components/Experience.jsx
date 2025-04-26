@@ -17,6 +17,7 @@ const JobExperienceCard = ({ experience, onClick }) => (
         className="h-full w-full object-cover rounded-full"
       />
     }
+     contentStyle={{ position: "relative" }}
     date={
       <span className="text-darkDesert font-medium">
         {experience.timePeriod}
@@ -31,7 +32,7 @@ const JobExperienceCard = ({ experience, onClick }) => (
       />
     )}
 
-    <h3 className="text-xl sm:text-2xl font-bold text-darkDesert vertical-timeline-element-title">
+    <h3 className="text-xl mt-10 md:mt-0 sm:text-2xl font-bold text-darkDesert vertical-timeline-element-title">
       {experience.title}
     </h3>
     <h4 className="text-lg sm:text-xl text-darkDesert italic mb-3 vertical-timeline-element-subtitle">
