@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0",
+    "title": "MERN Stack Developer",
+    "company": "MAGMA3C .Consult .Compute .Connect",
+    "description": "- Assisted in the development and maintenance of web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).\n- Gained hands-on experience developing RESTful APIs with Node.js and Express.\n- Contributed to building responsive user interfaces with React.js.\n- Worked with MongoDB for database operations and schema design.\n- Collaborated with the team using Git for version control and participated in agile development processes.",
+    "timePeriod": "May 2024 - July 2024",
+    "img": "images/magma3c.png",
+    "img2": "images/magma.png"
+  },
+  {
+    "id": "1",
+    "title": "MERN Stack Developer",
+    "company": "Fairchance For CRM",
+    "description": "- Developing and enhancing features for the Fairchance CRM platform using the MERN stack.\n- Designing, building, and maintaining efficient, reusable, and reliable server-side logic with Node.js and Express.js.\n- Implementing user-facing features and components using React.js, ensuring responsiveness and performance.\n- Managing database interactions and schema design with MongoDB.\n- Collaborating with cross-functional teams (product, design) to define and ship new features.\n- Writing tests and participating in code reviews to maintain code quality.",
+    "timePeriod": "January 2025 - Present",
+    "img": "images/fairchance.png",
+    "img2": "images/fairchance.png"
+  }
+]

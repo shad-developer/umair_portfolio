@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "degree": "Intermediate in Computer Science (ICS)",
+    "university": "Govt. Degree Postgraduate College Bahawalnagar",
+    "timePeriod": "August 2018 - May 2020",
+    "img": "images/pick.png"
+  },
+  {
+    "id": 2,
+    "degree": "Bachelor's of Science in Computer Science (BSCS)",
+    "university": "The Islamia University of Bahawalpur",
+    "timePeriod": "January 2021 - February 2025",
+    "img": "images/pick.png"
+  }
+]

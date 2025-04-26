@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Bidout (Auction Website)",
+    "description": "Bidout is auction web application built using the MERN Stack. It provides a platform for users to buy and sell a wide variety of items through an engaging bidding system. Features include user registration and login, the ability for sellers to list items with descriptions and images, a real-time bidding interface for buyers, notifications for bid updates, and secure payment processing.",
+    "thumbnail": "projects/auction.webp",
+    "deployed": "https://auction-bidding-system.onrender.com/",
+    "github": "https://github.com/shad-developer/auction_bidding_system",
+    "date": "December 2024"
+  },
+  {
+    "id": "2",
+    "title": "Phantom Frontend Website (Lead Generation)",
+    "description": "Phantom (Lead Generation) is a tool built to automate the collection of leads using PhantomBuster APIs, presented through a clean and user-friendly interface built with the MERN Stack. It allows users to trigger data scraping tasks (phantoms), monitor progress, and view collected leads in a structured format. This project simplifies the lead generation process by integrating backend automation with a responsive frontend dashboard.",
+    "thumbnail": "projects/phantom.png",
+    "deployed": "https://phantombuster-brown.vercel.app/",
+    "github": "https://github.com/shad-developer/phantombuster",
+    "date": "October 2024"
+  },
+  {
+    "id": "3",
+    "title": "Fruit Frontend Website",
+    "description": "Fruit FrontEnd Website is a visually appealing and responsive React-based web application designed to showcase a modern fruit store layout. Built entirely with React, the frontend uses Framer Motion to deliver smooth animations and interactive transitions, enhancing the user experience. The project emphasizes clean UI, reusable components, and mobile-first design principles.",
+    "thumbnail": "projects/fruit.png",
+    "deployed": "https://fruits-store-rho.vercel.app/",
+    "github": "https://github.com/shad-developer/Fruits-Store",
+    "date": "October 2024"
+  },
+  {
+    "id": "4",
+    "title": "Chat Application",
+    "description": "A real-time chat application built using the MERN Stack with Socket.IO for instant messaging. It features user authentication, private chats, online status tracking, and real-time message updates. The frontend is built with React and styled in tailwindCss for responsiveness, offering a smooth and modern chat experience.",
+    "thumbnail": "projects/chat.png",
+    "deployed": "https://chats-application-mern.vercel.app/login",
+    "github": "https://github.com/shad-developer/chat_application",
+    "date": "October 2024"
+  }
+]
